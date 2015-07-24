@@ -4,4 +4,4 @@
 - PIL
 
 旋转、增强、对换、艺术效果等。。。
-![图片示例](../../../../img/liangzhi.jpg)
+![图片示例](https://github.com/Liaoer/ImageProcessing/blob/master/Core/20141125051604.jpg)
